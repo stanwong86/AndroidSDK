@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LunchCount</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Lunch Summary</string>
+    <string name="newcomerEng">Newcomer (English)</string>
+    <string name="newcomerChin">Newcomer (Chinese)</string>
+    <string name="adult">Adult</string>
+    <string name="child">Child</string>
+    <string name="elder">Elder</string>
+    <string name="submit">Submit</string>
+
+</resources>
